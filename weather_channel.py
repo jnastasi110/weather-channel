@@ -8,7 +8,7 @@ import json
 # Sources
 
 current_url = "https://api.weather.gov/gridpoints/PSR/175,50"
-current_test_path = r"C:\Users\jnast\Desktop\python projects\test_data_current.json"
+current_test_path = r"test_data_current.json"
 
 payload = ""
 headers = ""
